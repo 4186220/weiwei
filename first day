@@ -1,0 +1,21 @@
+# 第一天
+
+学git
+
+mkdir  创建目录名（文件）
+
+cd 目录名
+
+pwd 显示当前目录        ls-ah 显示.git
+
+：wq enter退出
+
+git init创建仓库
+
+git add 文件 添加 
+
+git commit -m “描述”提交
+
+touch 文件名 创建文件
+
+vi 文件名 编辑文件
